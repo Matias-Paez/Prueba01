@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recuperatorio_07_07_2022", "Recuperatorio_07_07_2022\Recuperatorio_07_07_2022.csproj", "{FF870F86-AA7E-4D7C-AB74-0111BF5A6C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF870F86-AA7E-4D7C-AB74-0111BF5A6C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF870F86-AA7E-4D7C-AB74-0111BF5A6C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF870F86-AA7E-4D7C-AB74-0111BF5A6C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF870F86-AA7E-4D7C-AB74-0111BF5A6C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
